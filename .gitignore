@@ -1,3 +1,6 @@
 key_openai.txt
 .idea
 .venv
+log/
+scratchpad.md
+system_message.txt
